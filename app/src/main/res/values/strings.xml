@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RealmApplication</string>
+    <string name="user">USER</string>
+</resources>
